@@ -1,0 +1,1 @@
+This is my Final Capstone project whereby i was required to fix an unfunctioning app called book connect as it was having a well functuional HTML and CSS but the JavaScript file had a lot of fixing to be done, si in here is my new project as i have made a well fuctional book connect for user to easily interact with. This is basically a library in the comfort of your own hands.
